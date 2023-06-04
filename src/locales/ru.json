@@ -1,0 +1,31 @@
+{
+    "welcome": {
+        "heading": "Для вас"
+    },
+    "heading":{
+        "user": "Профиль",
+        "auth": "Войти"
+    },
+    "search": {
+        "placeholder": "Поиск..."
+    },
+    "alt": {
+        "menu": "Меню",
+        "search": "Поиск"
+    },
+    "banner": {
+        "auth": {
+            "heading": "Авторизуйтесь, получите скидку"
+        }
+    },
+    "form": {
+        "auth": {
+            "phone": "Номер телефона",
+            "password": "Пароль",
+            "verification_code": "Проверочный код",
+            "verification_code_label": "Мы отправили смс-код на ваш номер телефона",
+            "submit": "Далее"
+        }
+    }
+
+}

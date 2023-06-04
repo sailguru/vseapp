@@ -1,0 +1,30 @@
+{
+    "welcome": {
+        "heading": "For You"
+    },
+    "heading":{
+        "user": "Profile",
+        "auth": "Signin"
+    },
+    "search": {
+        "placeholder": "Search..."
+    },
+    "alt": {
+        "menu": "Menu",
+        "search": "Search"
+    },
+    "banner": {
+        "auth": {
+            "heading": "Signin, get a discount"
+        }
+    },
+    "form": {
+        "auth": {
+            "phone": "Phone",
+            "password": "Password",
+            "verification_code": "Verification code",
+            "verification_code_label": "We've sent the code via sms to your phone number",
+            "submit": "Signin"
+        }
+    }
+}
